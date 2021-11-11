@@ -1,5 +1,12 @@
 # LinearRegression
-Linear Regression Analysis to identify significant variables in predicting the demand for shared bikes.
+A bike-sharing provider recently suffered considerable dips in their revenues due to the ongoing Covid19 pandemic and wants to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19.¶
+
+Essentially, the company wants to identitfy —
+  1) Which variables are significant in predicting the demand for shared bikes.
+  2) To create a linear model that quantitatively relates bike demands with respect to variables like weather, day of the week, holiday, temperature etc.
+ 3)To know the accuracy of the model, i.e. How well those variables describe the bike demands.
+
+We would use Linear Regression to answer above questions.
 
 Liner Regression is one of the most commonly used algorithms in Predictive modelling.
 It linearly models the relationship between Target (dependent) variable and one or more independent (explanatory) variables with the help of correlation coefficient and by fitting a linear line/plane to the observed data.
